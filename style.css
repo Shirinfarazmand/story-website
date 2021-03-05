@@ -99,7 +99,7 @@ h1 {
     padding: 2%;
     width: 20%;
     margin-left:37%;
-    margin-top: -25.50%;
+    margin-top: -28%;
     box-shadow: 7px 4px 5px rgb(190, 190, 190);
     border-radius: 15px;
 }
@@ -113,7 +113,7 @@ h1 {
     padding: 2%;
     width: 20%;
     margin-left:70%;
-    margin-top: -25.50%;
+    margin-top: -28%;
     box-shadow: 7px 4px 5px rgb(190, 190, 190);
     border-radius: 15px;
   }
@@ -125,7 +125,7 @@ h1 {
 
   .sidenav {
     width: 130px;
-    position: fixed;
+    position: absolute;
     margin-top: -18%;
     margin-left: 70%;
     background: rgb(255, 255, 255);
@@ -135,3 +135,27 @@ h1 {
     border-radius: 15px;
   }
   
+.container-3 {
+    width: 80%;
+    height: 20%;
+    padding: 0.8% 10.90% ;
+    margin-left: -1%;
+    margin-bottom: -1%;
+    background-image: linear-gradient(to top left , rgb(95, 204, 207), rgb(253, 113, 143));
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.introtext {
+  text-align: center;
+  font-size: 250%;
+  font-weight: bold;
+
+}
+
+.copy {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 80%;
+}
